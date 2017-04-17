@@ -1,5 +1,5 @@
 # ermasterr
-A fork of ERMaster. Faster, Better, VCS-friendly.
+Esse projeto e um fork do ERMaster. Essa versão  em pt_br.
 
 Original version is http://ermaster.sourceforge.net  
 > ERMaster is GUI editor for ER diagram.  
